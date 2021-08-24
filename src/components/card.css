@@ -1,0 +1,36 @@
+.Portfolio-Card{
+    width: 85%;
+    height: 500px;
+    margin:0 auto;
+    margin-top: 100px;
+    background-color:rgb(235, 214, 218);
+    border-radius:20px;
+    box-shadow: 0.7px 0.7px 3.5px 3.5px rgb(107, 101, 104);
+
+}
+
+.image{
+    width: 500px;
+    height: 600px;
+}
+
+.details{
+    position: relative;
+    bottom:590px;
+    left:520px;
+}
+.basic-info {
+  list-style-type: none;
+  margin: 0px;
+  padding: 30px;
+}
+.personal_social{
+    display: inline-block;
+    margin-right: 7px;
+}
+.heading{
+    font-family: 'Lobster', cursive;
+    font-size: 25pt;
+    letter-spacing: 0.05cm;
+}
+

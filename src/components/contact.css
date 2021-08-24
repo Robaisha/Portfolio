@@ -1,0 +1,25 @@
+.form-card {
+  width: 55%;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding-top: 50px;
+  background-color: rgba(31, 7, 24, 0.418);
+  border-radius: 10px;
+  box-shadow: 0.7px 0.7px 3.5px 3.5px rgb(110, 35, 72);
+  text-align: center;
+  color: white;
+}
+
+.head {
+  text-align: center;
+  color: purple;
+  padding-top: 10px;
+}
+
+input,
+textarea {
+  border-radius: 6px;
+  border: 0;
+}
+
